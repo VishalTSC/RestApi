@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Vishal",
+    "city": "Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Ankit",
+    "city": "Jammu"
+  },
+  {
+    "id": 3,
+    "name": "Ajay",
+    "city": "UP"
+  },
+  {
+    "id": 4,
+    "name": "Kunnu",
+    "city": "Jaipur"
+  },
+  {
+    "id": 5,
+    "name": "Pathak",
+    "city": "Bangalore"
+  },
+  {
+    "id": 6,
+    "name": "Niraj",
+    "city": "Chennai"
+  }
+]
